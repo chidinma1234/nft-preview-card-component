@@ -48,7 +48,7 @@ body{
 
 }
 /*for position the icon view on the image*/
-.container .main-image div{
+.container .main-image .icon-image{
     position: absolute;
     width:100%;
     background-color: hsl(178, 100%, 50%, 60%);
